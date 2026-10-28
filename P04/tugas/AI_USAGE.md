@@ -1,7 +1,15 @@
-# AI Usage
+# Catatan Penggunaan Asisten AI
 
-Saya menggunakan AI sebagai alat bantu selama mengerjakan praktikum P04. AI membantu menjelaskan materi konstanta kelas, pencacah objek, konstruktor alternatif, serta membantu memahami pesan kesalahan dan proses pengujian.
+## Pertemuan 1
+- Tidak menggunakan asisten AI.
 
-Saya tetap menjalankan program dan pemeriksaan secara langsung, kemudian memeriksa hasilnya untuk membantu menyelesaikan tugas.
+## Pertemuan 2
+- Tidak menggunakan asisten AI.
 
-Penggunaan AI ini saya cantumkan sebagai bentuk keterbukaan dalam proses pengerjaan praktikum.
+## Pertemuan 3
+- Tidak menggunakan asisten AI.
+
+## Pertemuan 4
+- Menggunakan AI untuk membantu memahami materi konstanta kelas, pencacah objek, konstruktor alternatif, dan pengujian program.
+- Menggunakan AI untuk membantu memahami pesan kesalahan pada pemeriksaan otomatis GitHub serta langkah memperbaiki berkas `REFLEKSI.md` dan `AI_USAGE.md`.
+- Menjalankan perintah dan pemeriksaan program secara langsung untuk memeriksa hasil pengerjaan.
